@@ -24,6 +24,5 @@
     "invariant": "^2.2.4"
   },
   "peerDependencies": {
-    "axios": ">=16.8.0"
   }
 }
